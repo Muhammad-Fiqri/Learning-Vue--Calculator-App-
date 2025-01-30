@@ -7,3 +7,21 @@ And then I make a simple calculator App with only 1 Modules:
 1. Nerdamer
 
 I use Vanilla CSS for the layout and nothing else.
+
+#How To Run
+
+```
+git clone https://github.com/Muhammad-Fiqri/Learning-Vue--Calculator-App-.git
+```
+
+```
+cd learning-vue
+```
+
+```
+yarn install
+```
+
+```
+yarn run dev
+```
