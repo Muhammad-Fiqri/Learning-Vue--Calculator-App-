@@ -8,7 +8,7 @@ And then I make a simple calculator App with only 1 Modules:
 
 I use Vanilla CSS for the layout and nothing else.
 
-#How To Run
+# How To Run
 
 ```
 git clone https://github.com/Muhammad-Fiqri/Learning-Vue--Calculator-App-.git
